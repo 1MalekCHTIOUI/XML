@@ -1,0 +1,31 @@
+<!ELEMENT cv nom, prenom, information, bio, langues, reseaux, diplomes, experiences, competences>
+<!ELEMENT nom #PCDATA>
+<!ELEMENT prenom #PCDATA>
+<!ELEMENT information (email, adresse, telephone, nationalite)>
+<!ELEMENT email #PCDATA>
+<!ELEMENT adresse #PCDATA>
+<!ELEMENT telephone #PCDATA>
+<!ELEMENT nationalite #PCDATA>
+<!ELEMENT bio #PCDATA>
+<!ELEMENT langues (langue+)>
+<!ELEMENT langue #PCDATA>
+<!ELEMENT reseaux (reseau+)>
+<!ELEMENT reseau nom, url>
+<!ELEMENT nom #PCDATA>
+<!ELEMENT url #PCDATA>
+<!ELEMENT diplomes (diplome+)>
+<!ELEMENT diplome (titre, date, lieu)>
+<!ELEMENT titre #PCDATA>
+<!ELEMENT date #PCDATA>
+<!ELEMENT lieu #PCDATA>
+<!ELEMENT experiences (experience+)>
+<!ELEMENT experience (titre, date, entreprise, description)>
+<!ELEMENT titre #PCDATA>
+<!ELEMENT date #PCDATA>
+<!ELEMENT entreprise #PCDATA>
+<!ELEMENT description #PCDATA>
+<!ELEMENT competences (langages, technologies)>
+<!ELEMENT langages (langage+)>
+<!ELEMENT langage #PCDATA>
+<!ELEMENT technologies (technologie+)>
+<!ELEMENT technologie #PCDATA>

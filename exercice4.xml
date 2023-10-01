@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+	<nom>Chtioui</nom>
+	<prenom>Malek</prenom>
+	<informations>
+		<email>chtiouimalek001@gmail.com</email>
+		<adresse>utique-bizerte</adresse>
+		<telephone>28703829</telephone>
+		<nationalite>Tunisien</nationalite>
+	</informations>
+	<bio>Développeur web passionné d'innovation et les nouvelles technologies, 
+	Je suis toujours prêt à relever de nouveaux défis et fortement motivé à développer mes compétences techniques et 
+	à travailler en équipe de manière professionnelle. 
+	J'ai une forte capacité à m'adapter à différents environnements de développement, 
+	ce qui me permet de fournir des solutions innovantes et efficaces."
+	</bio>
+	<langues>
+		<langue>arabe</langue>
+		<langue>francais</langue>
+		<langue>englais</langue>
+	</langues>
+	<reseaux>
+		<reseau>
+			<nom>facebook</nom>
+			<url>https://www.facebook.com/malek.chtioui.1</url>
+		</reseau>
+		<reseau>
+			<nom>github</nom>
+			<url>https://github.com/1MalekCHTIOUI</url>
+		</reseau>
+	</reseaux>
+	<diplomes>
+		<diplome>
+			<titre>licence appliqué en développement des systèmes d'information</titre>
+			<date>2022</date>
+			<lieu>ISETB</lieu>
+		<diplome>
+			<titre>Baccalauréat en informatique</titre>
+			<date>2019</date>
+			<lieu>lycée utique</lieu>
+		</diplome>
+	</diplomes>
+	<experiences>
+		<experience>
+			<titre>Stage perf</titre>
+			<date>2022</date>
+			<entreprise>Adiz-DATA</entreprise>
+			<description>Développement d'une plateforme de gestion des rendez-vous de vaccination</description>
+		</experience>
+		<experience>
+			<titre>Stage PFE</titre>
+			<date>2022</date>
+			<entreprise>Adiz-DATA</entreprise>
+			<description>Développement d'une plateforme de communication interne</description>
+		</experience>
+	</experiences>
+	<competences>
+		<langages>
+			<langage>HTML5</langage>
+			<langage>CSS</langage>
+			<langage>Javascript</langage>
+			<langage>Java</langage>
+			<langage>Python</langage>
+		</langages>
+		<technologies>
+			<technologie>React.js</technologie>
+			<technologie>Express.js</technologie>
+			<technologie>MongoDB/MySQL</technologie>
+			<technologie>Spring</technologie>
+			<technologie>Docker</technologie>
+		</technologies>
+	</competences>
+	
+</cv>

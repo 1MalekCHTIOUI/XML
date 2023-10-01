@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filmographie>
+  <film>
+    <titre>titre 1</titre>
+    <realisateur>réalisateur 1</realisateur>
+    <annee>2023</annee>
+    <genre>action</genre>
+	<rating>6.5</rating>
+    <acteurs>
+      <acteur>act 1</acteur>
+      <acteur>act 2</acteur>
+      <acteur>act 3</acteur>
+    </acteurs>
+  </film>
+  <film>
+    <titre>titre 2</titre>
+    <realisateur>réalisateur 3</realisateur>
+    <annee>2023</annee>
+    <genre>action</genre>
+	<rating>8</rating>
+    <acteurs>
+      <acteur>act 1</acteur>
+      <acteur>act 2</acteur>
+      <acteur>act 3</acteur>
+    </acteurs>
+  </film>
+</filmographie>

@@ -1,0 +1,9 @@
+<!ELEMENT filmographie (film+)>
+<!ELEMENT film(titre, realisateur, annee, genre, rating, acteurs)>
+<!ELEMENT titre CDATA #REQUIRED >
+<!ELEMENT realisateur CDATA #REQUIRED >
+<!ELEMENT annee CDATA #REQUIRED >
+<!ELEMENT genre CDATA #REQUIRED >
+<!ELEMENT rating CDATA>
+<!ELEMENT acteurs (acteur+) CDATA #REQUIRED >
+<!ELEMENT acteur CDATA #REQUIRED >

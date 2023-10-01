@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cdtheque SYSTEM "cdtheque.dtd">
+<cdtheque date="2010-10-10" auteur="auteur">
+    <cd>
+        <titre>data</titre>
+        <artiste>tester</artiste>
+        <style>calm</style>
+    </cd>
+</cdtheque>
